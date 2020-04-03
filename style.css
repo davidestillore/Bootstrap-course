@@ -25,3 +25,20 @@ form.sign-inForm {
     max-width:350px;
     margin: auto;
 }
+
+button.signin-btn {
+    color: #ffffff;
+    background-color: #d64829;
+    width: 100%; /*takes up 100% of the width */
+    border-color: #007bff;
+    margin-bottom: 1.2rem; /* To push away the sign in button */
+}
+
+a.create-new-account {
+    font-size: 1.2rem;
+    display: block; /* So you can center the text */
+    text-align: center;
+    margin-top: 15px;
+}
+
+
