@@ -18,7 +18,12 @@ img.signin-img {
     padding: 0 2rem 2rem;
     margin:auto;
     display: block; /* We want this so the elements will stack on each other properly */
-    width: 70%;
+    width: 70%; 
+    /* If you want your image to be clearer, you can resize it in photoshop.*/
+/*    Inspect the image in browser. Resize the image. Then it will be clearer*/
+/*    After doing this, you can now delete the 
+    width: 70%;  since you no longer need it. The image is clear.*/
+/*    This way, the image won't change sizes no matter what screen size*/
 }
 
 form.sign-inForm {
